@@ -3,7 +3,7 @@
 }
 
 .App-header {
-  background-color: #1e5edf;
+  background-color: #1e88e5;
   min-height: 50vh;
   display: flex;
   flex-direction: column;
@@ -16,6 +16,6 @@
 
 
 .Footer {
-  background-color: #1e5edf;
+  background-color: #1e88e5;
   color: white;
 }
