@@ -12,7 +12,7 @@ const FoodPic = ({title, url, ingredients, image}) => {
               </div>
               <div className='dtc v-mid pl3'>
                 <h2>Recipe</h2>   
-                <p className=''>Ingredients: {ingredients} </p>   
+                <p className=''>Ingredients:  {ingredients} </p>   
               </div>
             </div>
         </div>
